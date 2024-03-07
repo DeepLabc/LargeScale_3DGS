@@ -39,6 +39,23 @@ Street Gaussians for Modeling Dynamic Urban Scenes
 
 </details>
 
+---
+
+GaussianPro: 3D Gaussian Splatting with Progressive Propagation
+
+[[paper]](https://arxiv.org/abs/2402.14650)  [[code]](https://github.com/kcheng1021/GaussianPro) [[project page]](https://kcheng1021.github.io/gaussianpro.github.io/)
+
+<details>
+<summary>method</summary>
+
+<div class="image-container">
+  <img src="assets/gaussianpro.png" width="100%">
+  <img src="assets/gaussianpro1.png" width="100%">
+</div>
+
+</details>
+
+
 ## City
 
 VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction
