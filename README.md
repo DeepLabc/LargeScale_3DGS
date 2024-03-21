@@ -55,6 +55,36 @@ GaussianPro: 3D Gaussian Splatting with Progressive Propagation
 
 </details>
 
+---
+Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering
+
+[[paper]](https://arxiv.org/abs/2311.18561)  [[code]](https://github.com/fudan-zvg/PVG) [[project page]](https://fudan-zvg.github.io/PVG)
+
+<details>
+<summary>method</summary>
+
+<div class="image-container">
+  <img src="assets/pvg1.png" width="100%">
+  <img src="assets/pvg2.png" width="100%">
+</div>
+
+</details>
+
+---
+HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting
+
+[[paper]](https://arxiv.org/abs/2403.12722)  [[code(coming soon)]] [[project page]](https://xdimlab.github.io/hugs_website/)
+
+
+<details>
+<summary>method</summary>
+
+<div class="image-container">
+  <img src="assets/hugs1.png" width="100%">
+  <img src="assets/hugs2.png" width="100%">
+</div>
+
+</details>
 
 ## City
 
