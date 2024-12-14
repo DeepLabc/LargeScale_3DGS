@@ -367,6 +367,19 @@ Driving Scenes
 
 ## City
 
+GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation
+
+[[paper]](https://arxiv.org/abs/2406.06526)  [[code]](https://github.com/hzxie/GaussianCity) [[project page]](https://haozhexie.com/project/gaussian-city)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/gaussiancity.png" width="100%">
+</div>
+</details>
+
+---
+
 Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes
 
 [[paper]](https://arxiv.org/abs/2412.01745)  [[code]] [[project page]](https://city-super.github.io/horizon-gs/)
