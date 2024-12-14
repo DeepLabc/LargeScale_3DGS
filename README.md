@@ -11,6 +11,244 @@
 ## Street
 
 
+### 2024
+
+DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes
+
+[[paper]](https://arxiv.org/abs/2411.11921)  [[code]](https://github.com/chengweialan/DeSiRe-GS) [[project page]]
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/desiregs.png" width="100%">
+</div>
+</details>
+
+---
+
+Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty
+
+[[paper]](https://arxiv.org/abs/2408.15242)  [[code]](https://github.com/SainingZhang/uc-gs/) [[project page]](https://sainingzhang.github.io/project/uc-gs/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/drone.png" width="100%">
+</div>
+</details>
+
+---
+
+3D StreetUnveiler with Semantic-Aware 2DGS
+
+[[paper]](https://arxiv.org/abs/2405.18416)  [[code(not yet)]](https://github.com/DavidXu-JJ/StreetUnveiler) [[project page]](https://streetunveiler.github.io/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/streetunveiler.png" width="100%">
+</div>
+</details>
+
+---
+
+StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting
+
+[[paper]](https://arxiv.org/abs/2410.04354)  [[code]] [[project page]]
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/streetsurfgs.png" width="100%">
+</div>
+</details>
+
+
+---
+
+Extrapolated Urban View Synthesis Benchmark
+
+[[paper]](https://arxiv.org/abs/2412.05256)  [[code]](https://github.com/ai4ce/EUVS-Benchmark/) [[project page]](https://ai4ce.github.io/EUVS-Benchmark/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/extrapolated.png" width="100%">
+</div>
+</details>
+
+---
+
+EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting
+
+[[paper]](https://arxiv.org/abs/2411.15582)  [code(comming soon)] [[project page]](https://qingpowuwu.github.io/emdgaussian.github.io/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/emd.png" width="100%">
+</div>
+</details>
+
+---
+
+SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving
+
+[[paper]](https://arxiv.org/abs/2411.16816)  [code] [[project page]](https://research.zenseact.com/publications/splatad/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/splatad.png" width="100%">
+</div>
+</details>
+
+---
+
+GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving
+
+[[paper]](https://arxiv.org/abs/2410.00299)  [[code(not yet)]](https://github.com/QiZS-BIT/GSPR) [project page]
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/gspr.png" width="100%">
+</div>
+</details>
+
+---
+
+DrivingForward: Feed-forward 3D Gaussian Splatting for Driving Scene Reconstruction from Flexible Surround-view Input
+
+[[paper]](https://arxiv.org/abs/2409.12753)  [[code]](https://github.com/fangzhou2000/DrivingForward) [[project page]](https://fangzhou2000.github.io/projects/drivingforward/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/drivingforward.png" width="100%">
+</div>
+</details>
+
+---
+
+GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation[WACV2025]
+
+[[paper]](https://arxiv.org/abs/2407.14108)  [code] [project page]
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/gaussianbev.png" width="100%">
+</div>
+</details>
+
+---
+
+GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction[ECCV2024]
+
+[[paper]](https://arxiv.org/abs/2405.17429)  [[code]](https://github.com/huang-yh/GaussianFormer) [project page]
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/gaussianformer.png" width="100%">
+</div>
+</details>
+
+---
+
+MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes
+
+[[paper]](https://arxiv.org/abs/2405.14475)  [[code]](https://github.com/flymin/MagicDrive3D) [[project page]](https://gaoruiyuan.com/magicdrive3d/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/magicdrive3d.png" width="100%">
+</div>
+</details>
+
+---
+
+HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving
+
+[[paper]](https://arxiv.org/abs/2412.01718)  [[code]](https://github.com/hyzhou404/HUGSIM) [[project page]](https://xdimlab.github.io/HUGSIM)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/hugsim.png" width="100%">
+</div>
+</details>
+
+----
+
+SplatFlow: Self-Supervised Dynamic Gaussian Splatting in Neural Motion Flow Field for Autonomous Driving
+
+[[paper]](https://arxiv.org/abs/2411.15482)  [code] [project page]
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/splatflow.png" width="100%">
+</div>
+</details>
+
+---
+
+OmniRe: Omni Urban Scene Reconstruction
+
+[[paper]](https://arxiv.org/abs/2408.16760)  [[code]](https://github.com/ziyc/drivestudio) [[project page]](https://ziyc.github.io/omnire/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/omnire.png" width="100%">
+</div>
+</details>
+
+---
+
+DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene
+
+[[paper]](https://arxiv.org/abs/2407.16600)  [code] [[project page]](https://ironbrotherstyle.github.io/dhgs_web/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/dhgs.png" width="100%">
+</div>
+</details>
+
+---
+
+S3Gaussian: Self-Supervised Street Gaussians for Autonomous Driving
+
+[[paper]](https://arxiv.org/abs/2405.20323)  [[code]](https://github.com/nnanhuang/S3Gaussian/) [[project page]](https://wzzheng.net/S3Gaussian)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/s3gaussian.png" width="100%">
+</div>
+</details>
+
+
+---
+
+GGRt: Towards Pose-free Generalizable 3D Gaussian Splatting in Real-time[ECCV2024]
+
+[[paper]](https://arxiv.org/abs/2403.10147)  [[code]](https://github.com/lifuguan/GGRt_official) [[project page]](https://3d-aigc.github.io/GGRt/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/ggrt.png" width="100%">
+</div>
+</details>
+
+---
+
 DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
 
 [[paper]](https://arxiv.org/pdf/2312.07920.pdf)  [code] [[project page]](https://pkuvdig.github.io/DrivingGaussian/)
@@ -128,6 +366,19 @@ Driving Scenes
 ---
 
 ## City
+
+Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes
+
+[[paper]](https://arxiv.org/abs/2412.01745)  [[code]] [[project page]](https://city-super.github.io/horizon-gs/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="assets/horizongs.png" width="100%">
+</div>
+</details>
+
+---
 
 VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction
 
